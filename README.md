@@ -1,0 +1,1 @@
+https://medium.com/@ganesh.s.gurav/top-architects-use-this-web-api-pattern-heres-why-you-should-too-e6bfd2768e88
