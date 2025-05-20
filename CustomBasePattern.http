@@ -1,0 +1,6 @@
+@CustomBasePattern_HostAddress = http://localhost:5199
+
+GET {{CustomBasePattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
